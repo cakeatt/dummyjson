@@ -10,7 +10,7 @@ def read_login_data():
     df=pd.read_excel(file_path)
     return df.to_dict('records')
 
-@allure.feature('用户认证模块')
+@allure.feature('用户认证模块1')
 class TestAuth:
     @allure.story('登录接口')
     @pytest.mark.parametrize('case',read_login_data())
