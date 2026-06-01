@@ -1,0 +1,4 @@
+[32mINFO    [0m api_test:api_client.py:17 正在登录emilys账户
+[32mINFO    [0m api_test:api_client.py:26 登录成功，token已加入请求头
+[32mINFO    [0m api_test:api_client.py:33 get https://dummyjson.com/products
+[32mINFO    [0m api_test:api_client.py:38 post https://dummyjson.com/carts/add

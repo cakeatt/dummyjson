@@ -1,0 +1,8 @@
+2026-04-13 18:22:13 - api_test -INFO - 正在登录emilys账户
+2026-04-13 18:22:14 - api_test -INFO - 登录成功，token已加入请求头
+2026-04-13 18:22:14 - api_test -INFO - get https://dummyjson.com/products
+2026-04-13 18:22:15 - api_test -INFO - post https://dummyjson.com/carts/add
+2026-04-13 18:22:15 - api_test -INFO - get https://dummyjson.com/products
+2026-04-13 18:22:16 - api_test -INFO - post https://dummyjson.com/carts/add
+2026-04-13 18:22:16 - api_test -INFO - 完整购物流程测试通过，购物车ID：209
+2026-04-13 18:22:17 - api_test -INFO - get https://dummyjson.com/auth/me

@@ -1,0 +1,3 @@
+[32mINFO    [0m api_test:api_client.py:33 get https://dummyjson.com/products
+[32mINFO    [0m api_test:api_client.py:38 post https://dummyjson.com/carts/add
+[32mINFO    [0m api_test:test_cart_flow.py:32 完整购物流程测试通过，购物车ID：209
